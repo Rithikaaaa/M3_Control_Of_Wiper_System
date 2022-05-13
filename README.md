@@ -6,10 +6,12 @@
  
 
 # Codacy
-# Codacy Badge
+![image](https://user-images.githubusercontent.com/101423326/168374589-29a0923c-2ff3-414b-a447-d31ebf84a5e4.png)
 
 # CppCheck Analysis
-# Cppcheck Analysis
+![image](https://user-images.githubusercontent.com/101423326/168374655-2c484120-75bf-40c5-b925-d22803d8ea4d.png)
+
 
 # Build on Linux
-# Build-Linux
+![image](https://user-images.githubusercontent.com/101423326/168374716-aec40782-c9fb-46f6-ab95-2a5b578225de.png)
+
