@@ -44,23 +44,17 @@ Mark Anderson invented on 1902
 # ENGINE ON STATE
 ![image](https://user-images.githubusercontent.com/101423326/168329813-4af98508-dcab-4994-8831-d5f46be9932f.png)
 
-engine start
-
 # WIPER SPEED IS LOW
-LOW
 ![image](https://user-images.githubusercontent.com/101423326/168330112-4bbb59a7-4399-4360-b528-bdfad99cf563.png)
 
 
 # WIPER SPEED IS MODERATE
-wiper start
 ![image](https://user-images.githubusercontent.com/101423326/168330298-cab32c02-64c9-4966-a29c-4304610231d8.png)
 
 
 # WIPER SPEED IS HIGH
-HIGH
 ![image](https://user-images.githubusercontent.com/101423326/168330465-e598d6c8-6573-4dd1-b44b-bad67619c74a.png)
 
 
 # OFF STATE
-off state
 ![image](https://user-images.githubusercontent.com/101423326/168330623-98de3011-e94c-429c-97a5-0d7791fb3431.png)
